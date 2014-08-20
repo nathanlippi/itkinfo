@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="DC536838-DD43-48FD-8D0E-8112DD3D89C2">
+  <lastEdited clientType="local-build-20100303" date="2010-03-03 13:25:18 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The ITK Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>How it all began</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>First off - I have to start by saying that I&#x2019;m uncomfortable with this whole thing.   I&#x2019;m a very private person.   I never update my status on Facebook.   I spent an entire shower thinking about clever status updates but never felt like I had anything worth broadcasting to the 200 people that I&#x2019;m &#x2018;Friends&#x2019; with.   &#xD;&#xD;So the idea of sharing my thoughts and experiences - not in a controlled one on one in person interaction but with unseen and people is not something I&#x2019;m particularly eager to do.  &#xD;&#xD;And yet. &#xD;&#xD;Here we are.  &#xD;&#xD;Maybe it&#x2019;s because I have time to think while feeding my new baby.  Thinking about wanting to share with him.   To teach him. &#xD;&#xD;Or because I really want to make something of this accidental business (much more on that to follow if I keep this up).  &#xD;&#xD;Either way.  &#xD;&#xD;Here I am.   I imagine that this will be a place for me to write about several things.   How my business got started, where I&#x2019;d like it to go, what I&#x2019;m trying to do to get it there, and sharing interesting reading that I come across on my journey.  &#xD;&#xD;Thanks for reading, stranger.   For now - since I&#x2019;m using IWeb and not going through a Mobileme account I can&#x2019;t allow comments on here.   Feel free to email me if there&#x2019;s anything you care to share. &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, March 3, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
